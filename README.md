@@ -1,7 +1,14 @@
-<h1 align="center">🚀 DSA Journey by Mani Lukka</h1>
+
+<h1 align="center">🔥 MANIHUB Ultimate DSA Journey</h1>
+
+<h3 align="center">
+🚀 Data Structures & Algorithms in C++ <br>
+💻 Coding Interview Preparation <br>
+🎯 FAANG + Product Based Companies + Competitive Programming
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Structures+%26+Algorithms;C%2B%2B+Problem+Solving;Interview+Preparation;Competitive+Programming&center=true&width=700&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Structures+%26+Algorithms;C%2B%2B+Problem+Solving;Interview+Preparation;Competitive+Programming;Blind+75+Questions;FAANG+Preparation&center=true&width=900&height=50&color=FF0000">
 </p>
 
 ---
@@ -11,17 +18,47 @@
 This repository contains:
 
 ✅ Data Structures & Algorithms  
-✅ Coding Interview Questions  
-✅ Company Asked Problems  
+✅ Topic Wise Coding Questions  
 ✅ Blind 75 Questions  
 ✅ LeetCode Style Problems  
-✅ Topic Wise C++ Solutions  
+✅ Product Based Company Questions  
+✅ Coding Interview Preparation  
+✅ Competitive Programming Problems  
+✅ Fully Working C++ Solutions  
+✅ Optimized Approaches with STL  
+✅ Input & Output Based Programs  
 
-All codes are written in:
+All codes are written using:
 
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
+```
+
+---
+
+# 🧠 DSA Roadmap
+
+```txt
+Arrays
+   ↓
+Strings
+   ↓
+Linked List
+   ↓
+Stack & Queue
+   ↓
+Binary Search
+   ↓
+Trees & BST
+   ↓
+Heap / Priority Queue
+   ↓
+Graphs
+   ↓
+Dynamic Programming
+   ↓
+Advanced DSA & CP
 ```
 
 ---
@@ -38,6 +75,9 @@ using namespace std;
 - Next Permutation
 - Spiral Matrix
 - Pascal Triangle
+- Longest Consecutive Sequence
+- Maximum Product Subarray
+- Best Time to Buy & Sell Stock
 
 ---
 
@@ -50,6 +90,8 @@ using namespace std;
 - Wildcard Matching
 - Edit Distance
 - String Permutations
+- Minimum Window Substring
+- Longest Substring Without Repeating
 
 ---
 
@@ -60,6 +102,7 @@ using namespace std;
 - Add Two Numbers
 - Reverse in K Group
 - Rotate Linked List
+- Clone Linked List
 
 ---
 
@@ -70,6 +113,7 @@ using namespace std;
 - Celebrity Problem
 - Rotten Oranges
 - Infix to Postfix
+- Largest Rectangle in Histogram
 
 ---
 
@@ -79,6 +123,8 @@ using namespace std;
 - Rat in Maze
 - Tower of Hanoi
 - Combination Sum
+- Word Search
+- Palindrome Partitioning
 
 ---
 
@@ -89,27 +135,32 @@ using namespace std;
 - Heap Sort
 - Aggressive Cows
 - Book Allocation
+- Search in Rotated Array
 
 ---
 
 ## 🔹 Trees & BST
 - Tree Traversals
 - Diameter of Tree
-- LCA
+- Lowest Common Ancestor
 - BST Iterator
 - Validate BST
-- Serialize Tree
+- Serialize & Deserialize Tree
+- Vertical Order Traversal
 
 ---
 
 ## 🔹 Graphs
 - BFS
 - DFS
-- Dijkstra
+- Dijkstra Algorithm
 - Bellman Ford
 - Floyd Warshall
 - Topological Sort
-- DSU
+- DSU / Union Find
+- Number of Islands
+- Course Schedule
+- Word Ladder
 
 ---
 
@@ -121,40 +172,138 @@ using namespace std;
 - Matrix Chain Multiplication
 - Word Break
 - House Robber
+- Decode Ways
+- Burst Balloons
+- Egg Dropping Problem
+
+---
+
+## 🔹 Greedy Algorithms
+- Activity Selection
+- Fractional Knapsack
+- Huffman Coding
+- Job Sequencing
+- Merge Intervals
+- Jump Game
+
+---
+
+## 🔹 Bit Manipulation
+- Count Set Bits
+- Power of Two
+- XOR Problems
+- Single Number
+- Bitmasking
+
+---
+
+## 🔹 Trie
+- Implement Trie
+- Word Break Using Trie
+- Maximum XOR
+- Replace Words
+
+---
+
+# 🏆 Most Important Interview Questions
+
+| Topic | Important Problems |
+|---|---|
+| Arrays | Two Sum, Kadane’s Algorithm |
+| Strings | KMP, Minimum Window Substring |
+| Linked List | Reverse Linked List, Detect Cycle |
+| Stack | LRU Cache, Largest Rectangle |
+| Trees | Diameter, LCA |
+| Graphs | Dijkstra, Topological Sort |
+| DP | Knapsack, LIS, LCS |
+| Heap | Kth Largest Element |
+| Sliding Window | Maximum Window Subarray |
+
+---
+
+# 🎯 Blind 75 Questions Included
+
+✅ Two Sum  
+✅ Best Time to Buy & Sell Stock  
+✅ Product of Array Except Self  
+✅ Maximum Subarray  
+✅ Valid Anagram  
+✅ Group Anagrams  
+✅ Reverse Linked List  
+✅ Linked List Cycle  
+✅ Maximum Depth of Binary Tree  
+✅ Validate BST  
+✅ Coin Change  
+✅ House Robber  
+✅ Number of Islands  
+✅ Course Schedule  
+✅ Word Break  
+
+---
+
+# 🔥 Interview Patterns Covered
+
+| Pattern | Problems |
+|---|---|
+| Sliding Window | Minimum Window Substring |
+| Two Pointers | 3Sum |
+| Binary Search on Answer | Aggressive Cows |
+| Prefix Sum | Subarray Sum Equals K |
+| DFS/BFS | Graph Traversals |
+| Monotonic Stack | Largest Rectangle |
+| Fast & Slow Pointer | Linked List Cycle |
+| Dynamic Programming | Knapsack |
+| Greedy | Activity Selection |
+| Backtracking | Sudoku Solver |
 
 ---
 
 # 🛠️ Folder Structure
 
 ```bash
-DSA/
+MANIHUB-DSA-Journey/
 │
 ├── Arrays/
 ├── Strings/
 ├── LinkedList/
 ├── StackQueue/
-├── Recursion/
-├── SearchingSorting/
+├── Recursion_Backtracking/
+├── Searching_Sorting/
 ├── Hashing/
 ├── Trees/
 ├── BST/
-├── Heap/
-├── Graph/
-├── DynamicProgramming/
+├── Heaps_Priority_Queue/
+├── Graphs/
+├── Dynamic_Programming/
 ├── Greedy/
-├── BitManipulation/
+├── Bit_Manipulation/
 ├── Trie/
 ├── Blind75/
-└── CompanyQuestions/
+├── Company_Questions/
+├── MostImportantForInterviews/
+└── CompetitiveProgramming/
 ```
 
 ---
 
 # 💻 Language Used
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
+
+---
+
+# 🚀 Features of This Repository
+
+✅ Fully Working C++ Programs  
+✅ Optimized Solutions  
+✅ Input & Output Handling  
+✅ STL Usage  
+✅ Interview-Oriented Questions  
+✅ Competitive Programming Problems  
+✅ Beginner to Advanced Problems  
+✅ Clean & Well Commented Code  
 
 ---
 
@@ -165,27 +314,30 @@ DSA/
 - ✅ Improve Problem Solving
 - ✅ Prepare for Coding Interviews
 - ✅ Daily Coding Practice
+- ✅ Master Competitive Programming
 
 ---
 
-# 🔥 Coding Profiles
+# 🌐 Coding Profiles
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">
+<p align="center">
+
+<a href="https://github.com/22230902mani">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/Manikanta_2223/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef">
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
 </a>
+
 </p>
 
 ---
@@ -193,11 +345,13 @@ DSA/
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=tokyonight" />
+
 </p>
 
 ---
@@ -210,4 +364,42 @@ DSA/
 
 ---
 
-<h3 align="center">⭐ Star this repository if you found it useful ⭐</h3>
+# 🌟 Future Additions
+
+- Advanced Graph Algorithms
+- Segment Trees
+- Fenwick Trees
+- STL Tricks
+- System Design Basics
+- CP Templates
+- Advanced DP Patterns
+
+---
+
+# 🤝 Contribution Guide
+
+Contributions are welcome 🚀
+
+You can contribute:
+- Better optimized solutions
+- New coding problems
+- Alternative approaches
+- Bug fixes
+- Additional explanations
+
+---
+
+# ⭐ Support
+
+If this repository helped you:
+
+🌟 Star the repository  
+🍴 Fork the repository  
+📢 Share with friends  
+
+---
+
+<h3 align="center">
+🔥 KEEP CODING • KEEP BUILDING • KEEP GROWING 🚀
+</h3>
+````
